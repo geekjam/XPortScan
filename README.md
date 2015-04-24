@@ -1,5 +1,5 @@
 # XPortScan
-![image](https://github.com/codejam1024/XPortScan/raw/master/screenshots/screenshot.png)
+![image](https://github.com/codejam1024/XPortScan/raw/master/screenshots/screenshot.png)<br/>
 介绍:简易的跨平台界面版端口扫描工具源码，欢迎各位python爱好者学习交流</br>
 感谢:windworst提供的rscan扫描代码<br/>
 测试:Ubuntu,Xp,win7可完美运行<br/>
